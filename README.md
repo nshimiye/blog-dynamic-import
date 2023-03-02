@@ -1,1 +1,2 @@
-# blog-dynamic-import
+# Importing scripts in the browser
+
